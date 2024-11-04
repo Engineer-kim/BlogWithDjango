@@ -13,5 +13,4 @@ static/
 *.egg-info
 .env
 venv/
-
 .idea
