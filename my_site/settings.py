@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-49mddo@e1f(g18skd4yx52qo6fdjwae!vk7f_crs=bcyq*f8^!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blog-django-4usa.onrender.com', 'localhost', '127.0.0.1', '[::1]']
+ALLOWED_HOSTS = ['blogwithdjango.onrender.com', 'localhost', '127.0.0.1', '[::1]']
 
 
 # Application definition
